@@ -1,7 +1,7 @@
 ### <div align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&multiline=true&width=345&height=40&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Binyam+" alt="Typing SVG" /></a></div> 
  <div align="center"> <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=735&height=60&lines=Remote+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+FullStack+developer+who+aims+to+write+quality+code" alt="Typing SVG" /></a></div>
  
-<div align="center"><a href="#"><img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" /></a></div> 
+<div align="center"><a href="#"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ix4pgsqav2f2mtchdl1.gif" /></a></div> 
 <br><br>🔭 I’m currently working on Front-end projects<br>👯 I’m looking to collaborate on projects that use React and NodeJS<br>🌱 I’m currently learning Front-end frameworks such as Tailwind and Sass<br>💬 Ask me about Vanilla JS and React<br>📫 How to reach me: <a href="mailto:binyampowerhc@gmail.com">Email</a> <br>👨‍💻 All of my projects are available at: <a href="https://binyam-tegene.vercel.app/">My Portfolio</a><br>⚡ Fun fact I like Programmer Dad Jokes.
 
 
